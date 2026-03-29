@@ -22,7 +22,7 @@ const Reservation = () => {
                 { firstName, lastName, email, date, time, phone },
                 {
                     headers: { "Content-Type": "application/json" },
-                    withCredentials: true,
+                   
                 }
             );
             toast.success(data.message);

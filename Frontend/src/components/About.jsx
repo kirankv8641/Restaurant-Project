@@ -12,7 +12,7 @@
                 <p>The only thing we care about is providing you with the best food experience.</p>
             </div>
             <p className="mid">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem ipsa voluptatum eos beatae adipisci aut possimus id eligendi est dicta quod, impedit, rem nobis earum sequi magnam tempore vero velit.
+                We are a family-owned restaurant that has been serving delicious food for over 20 years. Our menu features a wide variety of dishes, including vegetarian and vegan options. We use only the freshest ingredients and our chefs are passionate about creating delicious meals that will satisfy your taste buds.
             </p>
             <Link to={"/"}>Explore Menu <span>
                 <HiOutlineArrowNarrowRight />
