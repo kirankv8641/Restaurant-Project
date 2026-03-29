@@ -30,18 +30,15 @@ A full-stack restaurant web application built using the MERN stack (MongoDB, Exp
 ## 🛠️ Tech Stack
 
 Frontend:-
-
 React.js
 CSS
 Axios
 
 Backend:-
-
 Node.js
 Express.js
 
 Database:-
-
 MongoDB
 
 ---
@@ -73,9 +70,9 @@ Restaurant-Project/
 
 The backend handles all server-side logic and API operations.
 
-✨ Responsibilities
+ Responsibilities
 
-📅 Manage reservations
+ Manage reservations
 
 📩 Handle contact form submissions
 
