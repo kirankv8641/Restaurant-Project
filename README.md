@@ -70,17 +70,17 @@ Restaurant-Project/
 
 The backend handles all server-side logic and API operations.
 
- Responsibilities
+  Responsibilities
 
  Manage reservations
 
-📩 Handle contact form submissions
+Handle contact form submissions
 
-✅ Validate user inputs (email, phone, etc.)
+ Validate user inputs (email, phone, etc.)
 
-🔗 Connect to MongoDB database
+ Connect to MongoDB database
 
-⚙️ Provide REST APIs for frontend
+ Provide REST APIs for frontend
 
 ---
 
