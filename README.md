@@ -9,35 +9,39 @@ A full-stack restaurant web application built using the MERN stack (MongoDB, Exp
 
 ## 📌 Features
 
-🏠 Modern and responsive landing page
+🏠 Responsive and modern UI
 
-🍕 Browse food menu with images
+🍕 Browse restaurant menu
 
 📅 Table reservation system
 
 📩 Contact form
 
-✅ Form validation (email, phone, etc.)
+✅ Client-side & server-side validation
 
-⚡ Fast and dynamic UI with React
+⚡ Fast UI with React
 
-🌐 REST API integration
+🌐 RESTful API integration
 
-🔐 Backend validation using Node.js & Express
+🗄️ MongoDB database connectivity
 
 ---
 
 ## 🛠️ Tech Stack
 
 Frontend:-
+
 React.js
-CSS 
+CSS
 Axios
 
-Backend
+Backend:-
+
 Node.js
 Express.js
-Database
+
+Database:-
+
 MongoDB
 
 ---
@@ -61,6 +65,25 @@ Restaurant-Project/
 └── README.md
 
 ~~~
+
+---
+
+
+## 🔧 Backend Overview
+
+The backend handles all server-side logic and API operations.
+
+✨ Responsibilities
+
+📅 Manage reservations
+
+📩 Handle contact form submissions
+
+✅ Validate user inputs (email, phone, etc.)
+
+🔗 Connect to MongoDB database
+
+⚙️ Provide REST APIs for frontend
 
 ---
 
